@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #ffe500;
+}
+
+h1 {
+  font-family: 'Sigmar One', sans-serif;
+  font-size: 3rem;
+  color: #b20953;
+
+
+}
+
+h2 {
+  font-family: 'Sigmar One', sans-serif;
+  font-size: 1.875rem;
+  color: #b20953;
+}
+
+.nav {
+  font-size: 1.125rem;
+  list-style-type: none;
+}
+
+p {
+  font-size: .75rem;
+  color: #2f2d13;
+}
+
+footer {
+  background-color: #ffe500;
+}
