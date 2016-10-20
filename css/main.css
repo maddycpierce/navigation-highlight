@@ -14,20 +14,26 @@ body {
 
 header {
   background-color: #ffe500;
+  padding: 0 0 .4em;
 }
 
 h1 {
   font-family: "Sigmar One", sans-serif;
   font-size: 3rem;
-  color: #cc1465;
+  color: #b20953;
   text-align: center;
   margin: 0;
+  padding-bottom: 10px;
 }
 
 h2 {
   font-family: "Sigmar One", sans-serif;
   font-size: 1.875rem;
-  color: #cc1465;
+  color: #b20953;
+}
+
+main {
+  padding: 0 10px;
 }
 
 .nav {
@@ -48,7 +54,7 @@ h2 {
 }
 
 .nav a:hover {
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
 .nav .current {
